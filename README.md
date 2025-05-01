@@ -22,13 +22,10 @@ BIST_ALU_Test/
 
 
 ---
-
 ## 🧠 RTL Schematic
 
-> Generated using Quartus RTL Viewer
-
+Generated using Quartus RTL Viewer  
 ![RTL Diagram](RTL_BIST_ALU.png)
-
 ---
 
 ## 🌊 Simulation Waveform
